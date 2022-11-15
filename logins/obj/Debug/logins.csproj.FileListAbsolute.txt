@@ -1,0 +1,12 @@
+C:\Users\USUARIO\source\repos\logins\logins\bin\Debug\logins.exe.config
+C:\Users\USUARIO\source\repos\logins\logins\bin\Debug\logins.exe
+C:\Users\USUARIO\source\repos\logins\logins\bin\Debug\logins.pdb
+C:\Users\USUARIO\source\repos\logins\logins\obj\Debug\logins.csproj.AssemblyReference.cache
+C:\Users\USUARIO\source\repos\logins\logins\obj\Debug\logins.csproj.SuggestedBindingRedirects.cache
+C:\Users\USUARIO\source\repos\logins\logins\obj\Debug\logins.Form1.resources
+C:\Users\USUARIO\source\repos\logins\logins\obj\Debug\logins.Properties.Resources.resources
+C:\Users\USUARIO\source\repos\logins\logins\obj\Debug\logins.csproj.GenerateResource.cache
+C:\Users\USUARIO\source\repos\logins\logins\obj\Debug\logins.csproj.CoreCompileInputs.cache
+C:\Users\USUARIO\source\repos\logins\logins\obj\Debug\logins.exe
+C:\Users\USUARIO\source\repos\logins\logins\obj\Debug\logins.pdb
+C:\Users\USUARIO\source\repos\logins\logins\obj\Debug\logins.registro.resources
